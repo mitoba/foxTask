@@ -22,6 +22,13 @@ npm install
 npm run dev
 ```
 
+### Run the JSON-Server backend (http://localhost:5000)
+
+```sh
+npm run back
+```
+
+
 ### Compile and Minify for Production
 
 ```sh

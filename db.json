@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Play soccer",
+      "day": "March 20th at 4:00 pm",
+      "reminder": true,
+      "id": "NViLCjI"
+    },
+    {
+      "text": "Pick up Lucas",
+      "day": "April 4th at 1:00 pm",
+      "reminder": true,
+      "id": "M9N6Z4q"
+    },
+    {
+      "text": "Buy food",
+      "day": "March 5th at 11:00 am",
+      "reminder": false,
+      "id": "RzgADc-"
+    },
+    {
+      "text": "Hike the Everest",
+      "day": "March 10th at 7:00 am",
+      "reminder": false,
+      "id": "rhQ4ICI"
+    },
+    {
+      "text": "Buy food again",
+      "day": "March 8th at 11:00 am",
+      "reminder": true,
+      "id": "w1c9RIt"
+    }
+  ]
+}
